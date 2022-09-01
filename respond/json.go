@@ -3,7 +3,7 @@ package respond
 import (
 	"encoding/json"
 
-	"github.com/Jille/convreq/internal"
+	"github.com/tgmpje/convreq/internal"
 )
 
 // RespondJSON creates a JSON response

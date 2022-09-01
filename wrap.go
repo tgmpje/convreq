@@ -21,8 +21,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/Jille/convreq/internal"
-	"github.com/Jille/convreq/respond"
+	"github.com/tgmpje/convreq/internal"
+	"github.com/tgmpje/convreq/respond"
 )
 
 // extractor is a function that extracts one specific type from a ResponseWriter or Request.

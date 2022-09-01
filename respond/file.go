@@ -19,7 +19,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Jille/convreq/internal"
+	"github.com/tgmpje/convreq/internal"
 )
 
 type respondFile struct {

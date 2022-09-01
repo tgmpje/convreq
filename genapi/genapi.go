@@ -20,8 +20,8 @@ import (
 	"log"
 	"runtime/debug"
 
-	"github.com/Jille/convreq/internal"
-	"github.com/Jille/convreq/respond"
+	"github.com/tgmpje/convreq/internal"
+	"github.com/tgmpje/convreq/respond"
 )
 
 func PanicHandler(hr *internal.HttpResponse) func() {

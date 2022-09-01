@@ -17,7 +17,7 @@ package respond
 import (
 	"net/http"
 
-	"github.com/Jille/convreq/internal"
+	"github.com/tgmpje/convreq/internal"
 )
 
 type modifyingResponseWriter struct {

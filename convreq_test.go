@@ -26,8 +26,8 @@ import (
 	"testing"
 	"text/template"
 
-	"github.com/Jille/convreq"
-	"github.com/Jille/convreq/respond"
+	"github.com/tgmpje/convreq"
+	"github.com/tgmpje/convreq/respond"
 )
 
 type ArticlesCategoryHandlerGet struct {

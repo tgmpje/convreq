@@ -18,7 +18,7 @@ package convreq
 import (
 	"context"
 
-	"github.com/Jille/convreq/internal"
+	"github.com/tgmpje/convreq/internal"
 )
 
 // HttpResponse is what is to be returned from request handlers.

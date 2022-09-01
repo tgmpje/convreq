@@ -20,8 +20,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Jille/convreq"
-	"github.com/Jille/convreq/respond"
+	"github.com/tgmpje/convreq"
+	"github.com/tgmpje/convreq/respond"
 	"github.com/gorilla/mux"
 )
 

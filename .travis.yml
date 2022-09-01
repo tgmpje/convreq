@@ -15,7 +15,7 @@
 language: go
 
 before_install:
-- go get -d github.com/Jille/convreq/...
+- go get -d github.com/tgmpje/convreq/...
 - cd examples && go generate
 script:
 - "[ `gofmt -l $(find -name '*.go') | wc -l` = 0 ]"

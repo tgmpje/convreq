@@ -1,7 +1,7 @@
 # convreq
 
-[![GoDoc](https://godoc.org/github.com/Jille/convreq?status.svg)](https://godoc.org/github.com/Jille/convreq)
-[![Build Status](https://travis-ci.org/Jille/convreq.png)](https://travis-ci.org/Jille/convreq)
+[![GoDoc](https://godoc.org/github.com/tgmpje/convreq?status.svg)](https://godoc.org/github.com/tgmpje/convreq)
+[![Build Status](https://travis-ci.org/tgmpje/convreq.png)](https://travis-ci.org/tgmpje/convreq)
 
 Experimental project to make writing webservers more convenient.
 

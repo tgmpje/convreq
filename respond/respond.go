@@ -20,7 +20,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Jille/convreq/internal"
+	"github.com/tgmpje/convreq/internal"
 )
 
 type handlerResponse struct {
