@@ -1,4 +1,4 @@
-module github.com/Jille/convreq
+module github.com/tgmpje/convreq
 
 go 1.17
 
